@@ -1,10 +1,12 @@
 # manageit
 
-A new Flutter project.
+ManageIt is a task management application which insures to remind you about your task's,store your instinct notes, making a todo list, etc.
 
-## Getting Started
+## Libraries and Packages
+   -> Get,Get_Storage,GetX
+   -> Push Notification
+   -> MySQL (to store your reminders, notes,etc)
 
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
