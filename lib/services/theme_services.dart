@@ -13,5 +13,5 @@ class ThemeServices {
   void switch_theme() {
     Get.changeThemeMode(_loadThemeFromBox() ? ThemeMode.light : ThemeMode.dark);
     _savethemetobox(!(_loadThemeFromBox()));
-  }
+  } 
 }
